@@ -1,0 +1,58 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "GalaxyDevNetwork Docs",
+  "logo": {
+    "dark": "/logo/dark.png",
+    "light": "/logo/light.png"
+  },
+  "favicon": "/favicon.png",
+  "colors": {
+    "primary": "#8d16aa",
+    "light": "#8d16aa",
+    "dark": "#8d16aa"
+  },
+  "anchors": [
+    {
+      "name": "meme20200",
+      "icon": "gamepad",
+      "url": "meme20200"
+    },
+    {
+      "name": "GalaxyDev",
+      "icon": "message-bot",
+      "url": "galaxydev"
+    },
+    {
+      "name": "Discord",
+      "icon": "discord",
+      "url": "https://discord.gg/pvMdwVhekf"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Home",
+      "pages": ["introduction", "features", "faq"]
+    },
+    {
+      "group": "meme20200",
+      "pages": ["meme20200/home", "meme20200/advertisement"]
+    },
+    {
+      "group": "GalaxyDev",
+      "pages": ["galaxydev/home", "galaxydev/commands"]
+    },
+    {
+      "group": "Commands",
+      "pages": ["galaxydev/commands/todo"]
+    }
+  ],
+  "footerSocials": {
+    "github": "https://github.com/galaxydevnetwork",
+    "discord": "https://discord.gg/pvMdwVhekf",
+    "website": "https://galaxydevnetwork.com"
+  },
+  "feedback": {
+    "suggestEdit": true,
+    "raiseIssue": true
+  }
+}
