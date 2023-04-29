@@ -11,6 +11,14 @@
     "light": "#8d16aa",
     "dark": "#8d16aa"
   },
+  "topbarCtaButton": {
+    "type": "github",
+    "url": "https://github.com/galaxydevnetwork/docs"
+  },
+  "metadata": {
+    "og:locale": "en_US",
+    "og:site_name": "GalaxyDevNetwork"
+  },
   "anchors": [
     {
       "name": "meme20200",
